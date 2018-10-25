@@ -1,0 +1,2 @@
+{"id":1,"originID":1,"destinationID":2,"planeID":1,"date":"20/12/2016","startTime":"12:30","landingTime":"14:30","Passengers":300,"flightType":false,"passengersData":["aa","bb","cc","dd","ee","ff","name   "]}
+{"id":7,"originID":8,"destinationID":5,"planeID":3,"date":"31/12/2020","startTime":"1:1","landingTime":"1:1","Passengers":5000,"flightType":true,"passengersData":[]}

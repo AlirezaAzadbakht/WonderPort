@@ -1,0 +1,5 @@
+{"name":"AA_north","id":1,"pilot":"cap_p","copilot":"cap_cop","passengers":0}
+{"name":"aaaa","id":3,"pilot":"baaaaa","copilot":"caaaaaa","passengers":0}
+{"name":"fuck `   ","id":4,"pilot":"You","copilot":"         Co-Pilot Name   ","passengers":0}
+{"name":"        AirPlane Name   ","id":5,"pilot":"          Pilot Name   ","copilot":"         Co-Pilot Name   ","passengers":0}
+{"name":"        AirPlane Name   ","id":6,"pilot":"          Pilot Name   ","copilot":"         Co-Pilot Name   ","passengers":0}
